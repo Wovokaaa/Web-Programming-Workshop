@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS basics, Session 3</title>
+    <style>
+      * { margin: 0; }
+      .upleft{
+        background: blue;
+        width: 50px;
+        height: 40px;
+        margin: 0px;
+        float: left;
+      }
+      .upright{
+        background: blue;
+        width: 90px;
+        height: 40px;
+        margin-left: 20px;
+        float: left;
+      }
+      .downleft{
+        background: blue;
+        width: 50px;
+        height: 40px;
+        margin-top: 20px;
+        float: left;
+      }
+      .downright{
+        background: blue;
+        width: 90px;
+        height: 40px;
+        margin-left: 20px;
+        margin-top: 20px;
+        float: left;
+      }
+      .yellow{
+        background: yellow;
+        width: 160px;
+        height: 100px;
+        margin: 0px;
+        float: left;
+      }
+
+    </style>
+  </head>
+
+  <body>
+    <div class="yellow">
+      <div class="upleft">
+      </div>
+      <div class="upright">
+      </div>
+      <div class="downleft">
+      </div>
+      <div class="downright">
+      </div>
+    </div>
+    
+  </body>
+
+</html>
