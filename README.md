@@ -7,6 +7,10 @@ https://wovokaaa.github.io/Web-Programming-Workshop/JiahuiLuo_W1_flags/flag1.htm
 
 https://wovokaaa.github.io/Web-Programming-Workshop/JiahuiLuo_W1_flags/flag2.html
 
+https://wovokaaa.github.io/Web-Programming-Workshop/JiahuiLuo_W1_flags/senegal_wrap.html
+
+https://wovokaaa.github.io/Web-Programming-Workshop/JiahuiLuo_W1_flags/senegal.html
+
 
 Drawing objects:
 
