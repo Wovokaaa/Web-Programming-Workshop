@@ -1,0 +1,41 @@
+<html>
+  <head>
+      <style>
+        * { margin: 0; }
+
+        section { display: flex;
+        
+           width: 100vw;
+        align-items: center;
+        border: 0px solid black;}
+
+        section div { background: green;
+          flex: 1 1 30vw;
+          height: 100vh;
+           }
+        .yellow { background: yellow;
+          justify-content: center;
+          flex-shrink: 1;
+          flex-basis: 30vw;
+ }
+         .red { background: red;
+           flex-shrink: 1;
+           flex-grow: 2;
+           flex-basis: 30vw;
+        }
+        .center{position:relative; top: 10vh;}
+
+      </style>
+  </head>
+  <body>
+
+      <section>
+
+        <div></div>
+        <div class="yellow"><img src="img/star.svg">
+      </div>
+        <div class="red"></div>
+
+      </section>
+  </body>
+<html>
